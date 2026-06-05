@@ -1,0 +1,11 @@
+0 verbose cli /home/engine/.nvm/versions/node/v24.14.1/bin/node /home/engine/.nvm/versions/node/v24.14.1/bin/npm
+1 info using npm@11.11.0
+2 info using node@v24.14.1
+3 silly config load:file:/home/engine/.nvm/versions/node/v24.14.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/agent-lead/.npmrc
+5 silly config load:file:/home/engine/.nvm/versions/node/v24.14.1/etc/npmrc
+6 verbose title npm run dev --port 3000 --host
+7 verbose argv "run" "dev" "--" "--port" "3000" "--host"
+8 verbose logfile logs-max:10 dir:/home/agent-lead/.npm/_logs/2026-06-04T14_00_51_290Z-
+9 verbose logfile /home/agent-lead/.npm/_logs/2026-06-04T14_00_51_290Z-debug-0.log
+10 silly logfile done cleaning log files
