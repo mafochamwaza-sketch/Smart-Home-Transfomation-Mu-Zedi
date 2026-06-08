@@ -4,7 +4,7 @@ export const products = [
     name: "Solar Flood Light 200W",
     category: "Solar Solutions",
     priceRange: "K850 - K1,200",
-    image: "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?q=80&w=800",
+    image: "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?q=80&w=800",
     description: "Industrial grade 200W solar flood light. Weatherproof (IP66), includes remote control and smart twilight sensors for automatic operation."
   },
   {
@@ -12,7 +12,7 @@ export const products = [
     name: "Hybrid Solar Inverter 5kVA",
     category: "Power Solutions",
     priceRange: "K12,000 - K15,000",
-    image: "https://images.unsplash.com/photo-1621905252507-b35242f8df69?q=80&w=800",
+    image: "https://images.unsplash.com/photo-1620614811323-6c7a30c27e9e?q=80&w=800",
     description: "Pure sine wave hybrid inverter. Ideal for home backup during load shedding. Supports both solar panels and ZESCO grid charging."
   },
   {
@@ -28,7 +28,7 @@ export const products = [
     name: "Energy-Saver Air Cooler",
     category: "Home Appliances",
     priceRange: "K1,800 - K2,500",
-    image: "https://images.unsplash.com/photo-1591114649728-3a5893992a7e?q=80&w=800",
+    image: "https://images.unsplash.com/photo-1631541813470-30248a31e133?q=80&w=800",
     description: "Low-power consumption cooling solution. Perfect for hot Zambian afternoons without the high electricity bill of AC."
   },
   {
